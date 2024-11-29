@@ -1,2 +1,3 @@
-# My-projects
-This repo reflects my skills and ability to apply data techniques to gain insights out of data.
+Traffic volume Prediction using Random forest. 
+This is a problem statement from machine hack's hackathon where I had to predict the volume of traffic on the road round the week based on factors like weather type, temprature, time of the day etc.
+I have created sub attributes using the attributes available for exmaple converted time stamp into dattime format and extracted week day hour form it to accuratley predict the traffic during the speicif hours and day of the week. Also I did it to observe seasonality in the data. Did significant data cleaning and transformation before appliyng random forest regressor to predict the volume of the traffic.
